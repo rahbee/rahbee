@@ -50,3 +50,10 @@ A results-oriented Senior Software Engineer with over 12 years of experience in 
 
 *   [View Live Demo](https://tsjs.netlify.app/) | [View on GitHub](https://github.com/rahbee/live-edit)
 
+**JSON Formatter / Viewer**
+*   A modern SvelteKit app to format, pretty-print, and view JSON with error handling and code highlighting (prism.js).
+
+    ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![prism.js](https://img.shields.io/badge/prism.js-2D2D2D?style=flat-square&logo=prism&logoColor=white)
+   
+*   [View Live Demo](https://pretty-json.netlify.app) | [View on GitHub](https://github.com/rahbee/json-formatter)
+
